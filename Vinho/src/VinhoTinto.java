@@ -3,7 +3,11 @@ public class VinhoTinto extends Vinho {
 	
 	public VinhoTinto(String n, int a, float v) {
 		super(n, a, v);
+<<<<<<< HEAD
 		this.Cor="VERMELHO";
+=======
+		this.Cor="Tinto agora Ž verde.";
+>>>>>>> branch 'master' of https://github.com/cleobilla/TesteVinhoEHelloWorld.git
 	}
 
 	public void aumentaValor(float x){
