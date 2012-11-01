@@ -3,7 +3,7 @@ public class VinhoBranco extends Vinho {
 	
 	public VinhoBranco(String n, int a, float v) {
 		super(n, a, v);
-		this.Cor="Branco mais branco";
+		this.Cor="Bahhhhhhhhh já estava!!";
 	}
 	
 	public void maisVelho(int y){
