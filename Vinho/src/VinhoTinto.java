@@ -3,7 +3,7 @@ public class VinhoTinto extends Vinho {
 	
 	public VinhoTinto(String n, int a, float v) {
 		super(n, a, v);
-		this.Cor="Vermelho";
+		this.Cor="REd label mother fucker";
 	}
 
 	public void aumentaValor(float x){
